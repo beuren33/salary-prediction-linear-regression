@@ -35,7 +35,7 @@ O notebook baixa a base do Kaggle pelo kagglehub na primeira execução.
 ## Estrutura do projeto
 
 ```
-regressao-linear-salario/
+salary-prediction-linear-regression/
 ├── notebook/
 │   └── regressao_linear.ipynb   # treino e previsao da regressao linear
 ├── requirements.txt
